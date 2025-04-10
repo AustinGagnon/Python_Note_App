@@ -4,3 +4,4 @@ Test change.
 This is an automated change test.
 This is an automated change test.
 This is an automated change test.
+This is an automated change test.
